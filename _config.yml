@@ -1,5 +1,4 @@
-## _config.yml
-```yaml
+---
 title: "Owl & Oak"
 description: "Family office investing in and developing businesses"
 url: "https://owloak.net"
@@ -15,9 +14,3 @@ plugins:
 author: "Owl & Oak"
 twitter:
   card: summary
-```
-
-## CNAME
-```
-owloak.net
-```
