@@ -1,0 +1,23 @@
+## _config.yml
+```yaml
+title: "Owl & Oak"
+description: "Family office investing in and developing businesses"
+url: "https://owloak.net"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO
+author: "Owl & Oak"
+twitter:
+  card: summary
+```
+
+## CNAME
+```
+owloak.net
+```
